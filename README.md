@@ -5,7 +5,7 @@ Welcome to the advanced code walthroughs of PyTorch based models! This repo cont
 ## Table of Contents
 - [Convolution Neural Networks](#Convolution-Neural-Networks)
 - [Generative Adversarial Networks](#Generative-Adversarial-Networks)
-- [Random Experiments](#Random-Experiments)
+- [Experiments](#Experiments)
 
 ## Convolution Neural Networks
 - [LeNet](CNNs/LeNet.ipynb)
@@ -23,10 +23,11 @@ Welcome to the advanced code walthroughs of PyTorch based models! This repo cont
 - [Image2Image GAN](GANs/Pix2Pix.ipynb)
 - [Progressive Growing GAN](GANs/ProGAN.ipynb)
 
-## Random Experiments
+## Experiments
 <img align="center" src="https://github.com/SinghJivjot/GANCompetition/blob/main/vs.gif" width="700" />
 <img align="center" src="https://github.com/SinghJivjot/Pix2PixonDogs/blob/main/res.gif" width="700" />
 <img align="center" src="https://github.com/SinghJivjot/GANonGalaxies/blob/main/progan2.gif" width="700" />
+<img align="center" src="https://github.com/SinghJivjot/PyTorch_Powerlifting/blob/main/DMs/forward_exp.gif" width="700" />
 
 AlexNet
 <img align="center" src="https://github.com/SinghJivjot/PyTorch_Powerlifting/blob/main/CNNs/models_visualized/alexnet.png" width="700" />
